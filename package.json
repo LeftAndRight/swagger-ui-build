@@ -1,6 +1,6 @@
 {
   "name": "swagger-ui-build",
-  "version": "2.2.11",
+  "version": "2.2.12",
   "description": "Basic holder for a standalone version of the swagger-ui to easily be installed via npm",
   "main": "index.html",
   "repository": {
